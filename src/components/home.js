@@ -12,4 +12,10 @@ class Home extends Component {
     );
   }
 }
+
+// Things we need to fix:
+// Placeholder
+// Gray and Green Number Labels
+// Generate Button Space / card-height
+// Number Labels as Text Placeholders
 export default Home;
